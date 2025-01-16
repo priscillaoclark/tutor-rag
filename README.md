@@ -1,1 +1,1 @@
-# tutor-rag
+# Multi-Modal Chat with Textbook
